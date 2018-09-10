@@ -1,9 +1,27 @@
 Week1
-
 1 Learnt overview of software engineering.
 2 Learnt team work.
 3 Installed Android Studio and studied manifesto files.
 4 Got ideas for app and made presentation for that. While thinking about the app got to know various problems in society and the need for varios apps.
 5 Read a section on software engineering and society in the conference paper by NATO and got aware of history of software engineering, problems in software engineering then and now, wrote a summary on that.
 
+Week 2
+1 Read the NATO conference paper and wrote summary.
+2 Made a poster o it.
+3 Finalised topic for the app and started exploring android studio.
+4 Started the app by making a login page with integration of face book.
+5 Applied phone number authentication for the login page.
+6 Firebase was used for the phone number authenticaton and was succsessful.
+7 Worked enough on it to learn it completely.
+8 Completed the first version of the app and submitted.
 
+Week 3
+1 Continued to work on android studio for developing the app.
+2 Tried to link multiple activities to a single Database.
+3 Explored mysqlite to link database.
+4 Used mysqlite in app and didn,t find it apparopriate so again used firebase.
+5 Made a better version of the app,the second version, and submitted.
+
+Week 4
+1 Finalised to do a software tool for rest of the semester.
+2 Had a look at some of the ideas of software tools and domain based projects.
